@@ -1,0 +1,6 @@
+{
+  "Name": "FirstProjectTemplate",
+  "ProjectType": "Process",
+  "Description": "this is my first project using uipath",
+  "MainFile": "First data entry automation.xaml"
+}

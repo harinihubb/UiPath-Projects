@@ -1,0 +1,15 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "First data entry automation.xaml",
+      "uniqueId": "522e5475-df8f-4dab-929f-38f9d0c0ddec",
+      "type": "process"
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "72b821d3-5402-4351-b55c-298ae4f7a5e1",
+      "type": "process"
+    }
+  ]
+}
